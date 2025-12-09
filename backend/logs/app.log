@@ -634,3 +634,37 @@
 2025-12-09 20:24:55,699 - app - INFO - Logging configured. Writing to logs/app.log
 2025-12-09 20:24:55,729 - app.main - INFO - Starting Pharmacy Supply Chain AI System
 2025-12-09 20:24:55,763 - app.main - INFO - Database initialized
+2025-12-09 20:29:09,551 - app.main - INFO - Shutting down
+2025-12-09 20:29:29,809 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 20:29:29,835 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 20:29:29,875 - app.main - INFO - Database initialized
+2025-12-09 20:33:13,320 - app.main - INFO - Shutting down
+2025-12-09 20:33:16,436 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 20:33:16,465 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 20:33:16,488 - app.main - INFO - Database initialized
+2025-12-09 20:33:18,424 - app.main - INFO - Shutting down
+2025-12-09 20:33:21,728 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 20:33:21,757 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 20:33:21,796 - app.main - INFO - Database initialized
+2025-12-09 20:33:45,274 - app.main - INFO - Shutting down
+2025-12-09 20:40:20,149 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 20:40:20,180 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 20:40:20,222 - app.main - INFO - Database initialized
+2025-12-10 02:10:20,599 - app - INFO - Logging configured. Writing to logs\app.log
+2025-12-10 02:10:20,648 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 20:43:50,200 - app.api.routes.discovery - INFO - 🚀 Starting discovery for Paracetamol (5000 units)
+2025-12-09 20:43:50,201 - app.services.supplier_discovery_service - INFO - 🔍 Discovering suppliers for Paracetamol...
+2025-12-09 20:43:50,202 - app.services.supplier_discovery_service - WARNING - Using simulated suppliers (SerpAPI not configured)
+2025-12-09 20:44:00,472 - app.services.email_service - INFO - ✉️ Email sent to sales@abcpharma.in (actually: kanhacet@gmail.com)
+2025-12-09 20:44:00,504 - app.api.routes.discovery - INFO - 📧 Email sent to sales@abcpharma.in (supplier_id: 4)
+2025-12-09 20:58:13,692 - app.api.routes.discovery - INFO - 🚀 Starting discovery for Paracetamol (5000 units)
+2025-12-09 20:58:13,694 - app.services.supplier_discovery_service - INFO - 🔍 Discovering suppliers for Paracetamol...
+2025-12-09 20:58:13,695 - app.services.supplier_discovery_service - WARNING - Using simulated suppliers (SerpAPI not configured)
+2025-12-09 21:05:38,746 - app.api.routes.discovery - INFO - 🚀 Starting discovery for Paracetamol (5000 units)
+2025-12-09 21:05:38,747 - app.services.supplier_discovery_service - INFO - 🔍 Discovering suppliers for Paracetamol...
+2025-12-09 21:05:38,749 - app.services.supplier_discovery_service - WARNING - Using simulated suppliers (SerpAPI not configured)
+2025-12-09 21:07:52,302 - app.api.routes.discovery - INFO - 🚀 Starting discovery for Paracetamol (5000 units)
+2025-12-09 21:07:52,304 - app.services.supplier_discovery_service - INFO - 🔍 Discovering suppliers for Paracetamol...
+2025-12-09 21:07:52,305 - app.services.supplier_discovery_service - WARNING - Using simulated suppliers (SerpAPI not configured)
+2025-12-09 21:08:37,438 - app.services.email_service - INFO - ✉️ Email sent to sales@healthfirst.co.in (actually: kanhacet@gmail.com)
+2025-12-09 21:08:37,465 - app.api.routes.discovery - INFO - 📧 Email sent to sales@healthfirst.co.in (supplier_id: 5)
