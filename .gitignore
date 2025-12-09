@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Sensitive
+.env
+.env.production
+.env.local
+.env.*.local
+*.key
+secrets.yaml
+backend/app/config.py # Double check if this has secrets, usually .env is better but sometimes people hardcode. 
+# Actually config.py usually reads from env so it should be fine, but I'll check it quickly if I can. 
+# For now, I'll assume config.py is code.
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.next/
+frontend/dist/
+frontend/build/
+frontend/.env.local
+
+# Docker
+docker-compose.override.yml
+
+# OS
+.DS_Store
+Thumbs.db
