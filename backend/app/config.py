@@ -1,5 +1,11 @@
+"""Configuration settings for the application."""
 from pydantic_settings import BaseSettings
 from typing import List
+from pathlib import Path
+
+# Get project root (parent of backend/)
+BASE_DIR = Path(__file__).resolve().parent.parent.parent
+ENV_FILE = BASE_DIR / ".env"
 
 class Settings(BaseSettings):
     APP_NAME: str = "Pharmacy Supply Chain AI"
@@ -34,8 +40,18 @@ class Settings(BaseSettings):
     HIGH_THRESHOLD_DAYS: int = 5
     MAX_NEGOTIATION_ROUNDS: int = 3
     AUTO_APPROVE_THRESHOLD: float = 1000.0
+    
+    # Email Configuration (for supplier discovery demo)
+    EMAIL_ADDRESS: str = ""
+    EMAIL_APP_PASSWORD: str = ""
+    EMAIL_DEMO_RECIPIENT: str = ""
+    
+    # SerpAPI for supplier discovery
+    SERPAPI_KEY: str = ""
 
     class Config:
-        env_file = ".env"
+        env_file = str(ENV_FILE)
+        env_file_encoding = 'utf-8'
+        extra = "ignore"
 
 settings = Settings()

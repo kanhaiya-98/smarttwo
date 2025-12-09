@@ -3,6 +3,7 @@ from fastapi import APIRouter, Depends, HTTPException
 from sqlalchemy.orm import Session
 from app.database import get_db
 from app.models.order import PurchaseOrder, OrderStatus
+from app.models.agent_activity import AgentActivity
 from pydantic import BaseModel
 from datetime import datetime
 
@@ -78,8 +79,19 @@ async def approve_order(
     
     db.commit()
     
+    # Log activity for Decision Agent
+    activity = AgentActivity(
+        agent_name="DECISION",
+        action_type="APPROVE",
+        message=f"Order {order.po_number} {order.status.value}. Email notification sent to supplier.",
+        status="SUCCESS",
+        context_data={"order_id": order_id, "approved": request.approved}
+    )
+    db.add(activity)
+    db.commit()
+    
     return {
         "order_id": order_id,
         "status": order.status.value,
-        "message": "Order approved" if request.approved else "Order rejected"
+        "message": "Order approved and sent to supplier" if request.approved else "Order rejected"
     }

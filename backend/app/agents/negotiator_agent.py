@@ -44,6 +44,32 @@ Be persuasive but respectful. Use concrete numbers and value propositions."""
         state["current_stage"] = "NEGOTIATOR_AGENT"
         
         quotes = state.get("quotes", [])
+        
+        # Fallback: Fetch quotes from DB if not in state (Decoupled execution)
+        if not quotes and not state.get("errors"):
+            # Find active task in NEGOTIATING or SUPPLIER_DISCOVERY stage
+            # Ideally passed via state["task_id"]
+            task_id = state.get("task_id")
+            if task_id:
+                from app.models.negotiation import Quote
+                db_quotes = self.db.query(Quote).filter(Quote.procurement_task_id == task_id).all()
+                if db_quotes:
+                     logger.info(f"Fetched {len(db_quotes)} quotes from DB for Task {task_id}")
+                     # Convert DB objects to dicts for workflow compatibility
+                     quotes = []
+                     for q in db_quotes:
+                         # Get supplier name
+                         supplier_name = q.supplier.name if q.supplier else "Unknown"
+                         quotes.append({
+                             "unit_price": q.unit_price,
+                             "delivery_days": q.delivery_days,
+                             "quantity_available": q.quantity_available,
+                             "supplier_id": q.supplier_id,
+                             "supplier_name": supplier_name,
+                             "bulk_discount_available": False # Default
+                         })
+                     state["quotes"] = quotes
+
         if not quotes:
             state["errors"].append("No quotes available for negotiation")
             return state
@@ -313,3 +339,89 @@ Be persuasive but respectful. Use concrete numbers and value propositions."""
                 "message": f"We can offer ${counter_price:.2f}/unit if you commit to 6 months.",
                 "counter_price": round(counter_price, 2)
             }
+    
+    def negotiate_with_suppliers(
+        self,
+        task_id: int,
+        quotes: List
+    ) -> List[Dict]:
+        """
+        Synchronous method to negotiate with multiple suppliers.
+        
+        Args:
+            task_id: Procurement task ID
+            quotes: List of QuoteResponse objects
+            
+        Returns:
+            List of negotiation results
+        """
+        from app.models.medicine import ProcurementTask
+        from app.models.medicine import Medicine
+        
+        logger.info(f"Starting negotiations for task {task_id} with {len(quotes)} quotes")
+        
+        # Get task details
+        task = self.db.query(ProcurementTask).get(task_id)
+        if not task:
+            raise ValueError(f"Task {task_id} not found")
+        
+        medicine = self.db.query(Medicine).get(task.medicine_id)
+        
+        # Convert quotes to dict format
+        quote_dicts = []
+        for q in quotes:
+            from app.models.discovered_supplier import DiscoveredSupplier
+            supplier = self.db.query(DiscoveredSupplier).get(q.supplier_id)
+            quote_dicts.append({
+                "unit_price": q.unit_price,
+                "delivery_days": q.delivery_days,
+                "quantity_available": q.stock_available,
+                "supplier_id": q.supplier_id,
+                "supplier_name": supplier.name if supplier else "Unknown",
+                "bulk_discount_available": False
+            })
+        
+        # Build state
+        state = {
+            "task_id": task_id,
+            "medicine_name": medicine.name if medicine else "Unknown",
+            "required_quantity": task.quantity_needed or 5000,
+            "urgency_level": task.urgency or "MEDIUM",
+            "quotes": quote_dicts,
+            "monthly_volume": 3000
+        }
+        
+        # Identify negotiation targets
+        targets = self._identify_negotiation_targets(quote_dicts, state)
+        
+        if not targets:
+            logger.info("No negotiation targets identified")
+            return []
+        
+        # Negotiate with each target
+        results = []
+        for target in targets:
+            try:
+                # Run async negotiation in sync context
+                import asyncio
+                loop = asyncio.new_event_loop()
+                asyncio.set_event_loop(loop)
+                
+                result = loop.run_until_complete(
+                    self._negotiate_with_supplier(
+                        supplier_id=target["supplier_id"],
+                        supplier_name=target["supplier_name"],
+                        initial_quote=target["quote"],
+                        state=state
+                    )
+                )
+                results.append(result)
+                loop.close()
+                
+            except Exception as e:
+                logger.error(f"Error negotiating with supplier {target['supplier_id']}: {e}")
+                continue
+        
+        logger.info(f"Completed {len(results)} negotiations")
+        return results
+

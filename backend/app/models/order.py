@@ -69,3 +69,13 @@ class PurchaseOrder(Base):
     approved_at = Column(DateTime(timezone=True))
     placed_at = Column(DateTime(timezone=True))
     delivered_at = Column(DateTime(timezone=True))
+    
+    # Approval workflow
+    approved_by = Column(String(255))
+    approval_notes = Column(Text)
+    tracking_notes = Column(Text)
+
+
+# Alias for backwards compatibility
+Order = PurchaseOrder
+

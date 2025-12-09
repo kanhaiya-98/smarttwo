@@ -5,14 +5,16 @@ from fastapi.middleware.gzip import GZipMiddleware
 from contextlib import asynccontextmanager
 from app.config import settings
 from app.database import init_db
-from app.api.routes import inventory, suppliers, orders, negotiations, dashboard
+from app.api.routes import (
+    inventory, suppliers, orders, negotiations, dashboard, agents,
+    negotiation, discovery, negotiation_decision, quotes, approvals, tracking
+)
 import logging
 
+from app.core.logging_config import setup_logging
+
 # Configure logging
-logging.basicConfig(
-    level=getattr(logging, settings.LOG_LEVEL),
-    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
-)
+setup_logging()
 logger = logging.getLogger(__name__)
 
 
@@ -71,9 +73,44 @@ app.include_router(
     tags=["Negotiations"]
 )
 app.include_router(
+    negotiation.router,
+    prefix=f"{settings.API_V1_PREFIX}/negotiation",
+    tags=["Start Negotiation"]
+)
+app.include_router(
     dashboard.router,
     prefix=f"{settings.API_V1_PREFIX}/dashboard",
     tags=["Dashboard"]
+)
+app.include_router(
+    agents.router,
+    prefix=f"{settings.API_V1_PREFIX}/agents",
+    tags=["Agents"]
+)
+app.include_router(
+    discovery.router,
+    prefix=f"{settings.API_V1_PREFIX}/discovery",
+    tags=["Discovery"]
+)
+app.include_router(
+    negotiation_decision.router,
+    prefix=f"{settings.API_V1_PREFIX}/negotiation-decision",
+    tags=["Negotiation & Decision"]
+)
+app.include_router(
+    quotes.router,
+    prefix=f"{settings.API_V1_PREFIX}",
+    tags=["Quotes"]
+)
+app.include_router(
+    approvals.router,
+    prefix=f"{settings.API_V1_PREFIX}",
+    tags=["Approvals"]
+)
+app.include_router(
+    tracking.router,
+    prefix=f"{settings.API_V1_PREFIX}",
+    tags=["Tracking"]
 )
 
 

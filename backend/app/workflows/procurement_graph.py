@@ -43,9 +43,10 @@ class ProcurementWorkflow:
         workflow = StateGraph(ProcurementState)
         
         # Add nodes (each node is an agent or decision point)
+        # Add nodes (each node is an agent or decision point)
         workflow.add_node("buyer", self._buyer_node)
         workflow.add_node("negotiator", self._negotiator_node)
-        workflow.add_node("decision", self._decision_node)
+        workflow.add_node("decision_making", self._decision_node)
         workflow.add_node("approval_check", self._approval_check_node)
         workflow.add_node("place_order", self._place_order_node)
         workflow.add_node("handle_error", self._handle_error_node)
@@ -68,13 +69,13 @@ class ProcurementWorkflow:
             "negotiator",
             self._should_continue_after_negotiator,
             {
-                "continue": "decision",
+                "continue": "decision_making",
                 "error": "handle_error"
             }
         )
         
         # From decision to approval check
-        workflow.add_edge("decision", "approval_check")
+        workflow.add_edge("decision_making", "approval_check")
         
         # From approval check to place order or end (wait for approval)
         workflow.add_conditional_edges(

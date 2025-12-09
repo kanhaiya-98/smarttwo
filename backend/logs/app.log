@@ -1,0 +1,636 @@
+2025-12-09 12:10:43,989 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 12:10:43,999 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 12:10:44,019 - app.main - INFO - Database initialized
+2025-12-09 12:22:07,881 - app.main - INFO - Shutting down
+2025-12-09 12:22:12,475 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 12:22:12,486 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 12:22:12,508 - app.main - INFO - Database initialized
+2025-12-09 12:22:31,307 - app.main - INFO - Shutting down
+2025-12-09 12:22:35,190 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 12:22:35,201 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 12:22:35,222 - app.main - INFO - Database initialized
+2025-12-09 12:22:53,907 - app.main - INFO - Shutting down
+2025-12-09 12:41:17,752 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 12:41:17,764 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 12:41:17,868 - app.main - INFO - Database initialized
+2025-12-09 12:42:33,115 - app.main - INFO - Shutting down
+2025-12-09 12:42:36,549 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 12:42:36,561 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 12:42:36,589 - app.main - INFO - Database initialized
+2025-12-09 12:57:28,427 - app.main - INFO - Shutting down
+2025-12-09 12:57:32,012 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 12:57:32,026 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 12:57:32,049 - app.main - INFO - Database initialized
+2025-12-09 12:57:49,087 - app.main - INFO - Shutting down
+2025-12-09 13:00:12,937 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 13:00:12,952 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 13:00:12,992 - app.main - INFO - Database initialized
+2025-12-09 13:01:17,353 - app.main - INFO - Shutting down
+2025-12-09 13:01:20,290 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 13:01:20,306 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 13:01:20,335 - app.main - INFO - Database initialized
+2025-12-09 13:04:34,326 - app.main - INFO - Shutting down
+2025-12-09 13:04:37,005 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 13:04:37,019 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 13:04:37,042 - app.main - INFO - Database initialized
+2025-12-09 13:04:49,202 - app.main - INFO - Shutting down
+2025-12-09 13:04:51,946 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 13:04:51,958 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 13:04:51,982 - app.main - INFO - Database initialized
+2025-12-09 13:04:57,211 - app.main - INFO - Shutting down
+2025-12-09 13:05:00,772 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 13:05:00,784 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 13:05:00,811 - app.main - INFO - Database initialized
+2025-12-09 13:11:40,823 - app.main - INFO - Shutting down
+2025-12-09 13:11:43,785 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 13:11:43,798 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 13:11:43,821 - app.main - INFO - Database initialized
+2025-12-09 13:11:54,148 - app.main - INFO - Shutting down
+2025-12-09 13:11:57,657 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 13:11:57,669 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 13:11:57,693 - app.main - INFO - Database initialized
+2025-12-09 13:12:14,196 - app.main - INFO - Shutting down
+2025-12-09 13:12:16,801 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 13:12:16,815 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 13:12:16,838 - app.main - INFO - Database initialized
+2025-12-09 13:12:39,210 - app.main - INFO - Shutting down
+2025-12-09 13:12:45,119 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 13:12:45,134 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 13:12:45,162 - app.main - INFO - Database initialized
+2025-12-09 13:14:35,909 - app.main - INFO - Shutting down
+2025-12-09 13:14:38,532 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 13:14:38,544 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 13:14:38,566 - app.main - INFO - Database initialized
+2025-12-09 13:14:46,801 - app.main - INFO - Shutting down
+2025-12-09 13:14:50,223 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 13:14:50,236 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 13:14:50,260 - app.main - INFO - Database initialized
+2025-12-09 13:19:28,311 - app.main - INFO - Shutting down
+2025-12-09 13:19:31,122 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 13:19:31,137 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 13:19:31,164 - app.main - INFO - Database initialized
+2025-12-09 13:19:42,623 - app.main - INFO - Shutting down
+2025-12-09 13:19:45,445 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 13:19:45,458 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 13:19:45,480 - app.main - INFO - Database initialized
+2025-12-09 13:20:23,018 - app.main - INFO - Shutting down
+2025-12-09 13:20:26,206 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 13:20:26,220 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 13:20:26,241 - app.main - INFO - Database initialized
+2025-12-09 13:24:01,426 - app.main - INFO - Shutting down
+2025-12-09 13:24:06,100 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 13:24:06,116 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 13:24:06,137 - app.main - INFO - Database initialized
+2025-12-09 13:24:11,082 - app.main - INFO - Shutting down
+2025-12-09 13:24:14,538 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 13:24:14,551 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 13:24:14,576 - app.main - INFO - Database initialized
+2025-12-09 13:28:05,003 - app.main - INFO - Shutting down
+2025-12-09 13:28:09,637 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 13:28:09,650 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 13:28:09,670 - app.main - INFO - Database initialized
+2025-12-09 13:28:14,290 - app.main - INFO - Shutting down
+2025-12-09 13:28:17,737 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 13:28:17,750 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 13:28:17,776 - app.main - INFO - Database initialized
+2025-12-09 13:34:22,539 - app.main - INFO - Shutting down
+2025-12-09 13:34:28,168 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 13:34:28,180 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 13:34:28,206 - app.main - INFO - Database initialized
+2025-12-09 13:34:46,435 - app.main - INFO - Shutting down
+2025-12-09 13:34:49,114 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 13:34:49,127 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 13:34:49,155 - app.main - INFO - Database initialized
+2025-12-09 13:34:57,476 - app.main - INFO - Shutting down
+2025-12-09 13:35:00,259 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 13:35:00,276 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 13:35:00,301 - app.main - INFO - Database initialized
+2025-12-09 13:35:12,126 - app.main - INFO - Shutting down
+2025-12-09 13:35:15,544 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 13:35:15,559 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 13:35:15,583 - app.main - INFO - Database initialized
+2025-12-09 13:35:36,441 - app.main - INFO - Shutting down
+2025-12-09 13:35:39,207 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 13:35:53,194 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 13:35:53,206 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 13:35:53,228 - app.main - INFO - Database initialized
+2025-12-09 13:36:42,504 - app.main - INFO - Shutting down
+2025-12-09 13:36:45,284 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 13:36:45,297 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 13:36:45,322 - app.main - INFO - Database initialized
+2025-12-09 13:36:58,357 - app.main - INFO - Shutting down
+2025-12-09 13:37:01,855 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 13:37:01,874 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 13:37:01,899 - app.main - INFO - Database initialized
+2025-12-09 13:41:52,241 - app.main - INFO - Shutting down
+2025-12-09 13:42:33,508 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 13:42:33,522 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 13:42:33,585 - app.main - INFO - Database initialized
+2025-12-09 13:57:35,248 - app.main - INFO - Shutting down
+2025-12-09 13:57:38,942 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 13:57:38,956 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 13:57:38,985 - app.main - INFO - Database initialized
+2025-12-09 13:58:12,292 - app.main - INFO - Shutting down
+2025-12-09 13:58:16,004 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 13:58:16,019 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 13:58:16,043 - app.main - INFO - Database initialized
+2025-12-09 13:58:28,079 - app.main - INFO - Shutting down
+2025-12-09 13:58:30,871 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 13:58:30,884 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 13:58:30,906 - app.main - INFO - Database initialized
+2025-12-09 13:59:14,056 - app.main - INFO - Shutting down
+2025-12-09 14:00:12,504 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 14:00:12,519 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 14:00:12,544 - app.main - INFO - Database initialized
+2025-12-09 14:04:39,064 - app.main - INFO - Shutting down
+2025-12-09 14:04:41,941 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 14:04:41,955 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 14:04:41,977 - app.main - INFO - Database initialized
+2025-12-09 14:05:07,532 - app.main - INFO - Shutting down
+2025-12-09 14:05:10,349 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 14:05:10,366 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 14:05:10,389 - app.main - INFO - Database initialized
+2025-12-09 14:05:38,507 - app.main - INFO - Shutting down
+2025-12-09 14:05:41,358 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 14:05:41,374 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 14:05:41,403 - app.main - INFO - Database initialized
+2025-12-09 14:16:25,075 - app.main - INFO - Shutting down
+2025-12-09 14:16:28,797 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 14:16:28,811 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 14:16:28,836 - app.main - INFO - Database initialized
+2025-12-09 14:16:54,330 - app.main - INFO - Shutting down
+2025-12-09 14:16:57,222 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 14:16:57,239 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 14:16:57,260 - app.main - INFO - Database initialized
+2025-12-09 14:17:07,228 - app.main - INFO - Shutting down
+2025-12-09 14:17:10,529 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 14:17:10,543 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 14:17:10,566 - app.main - INFO - Database initialized
+2025-12-09 14:18:50,868 - app.main - INFO - Shutting down
+2025-12-09 19:48:53,553 - app - INFO - Logging configured. Writing to logs\app.log
+2025-12-09 19:48:53,577 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 19:48:53,652 - app.main - INFO - Database initialized
+2025-12-09 14:18:55,349 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 14:18:55,363 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 14:18:55,398 - app.main - INFO - Database initialized
+2025-12-09 19:52:16,435 - app.main - INFO - Shutting down
+2025-12-09 19:52:49,208 - app - INFO - Logging configured. Writing to logs\app.log
+2025-12-09 19:52:49,219 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 19:52:49,273 - app.main - INFO - Database initialized
+2025-12-09 20:09:20,888 - app.main - INFO - Shutting down
+2025-12-09 14:39:21,072 - app.main - INFO - Shutting down
+2025-12-09 20:09:25,586 - app - INFO - Logging configured. Writing to logs\app.log
+2025-12-09 20:09:25,602 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 20:09:25,655 - app.main - INFO - Database initialized
+2025-12-09 14:39:26,671 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 14:39:26,687 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 14:39:26,712 - app.main - INFO - Database initialized
+2025-12-09 20:11:22,049 - app.main - INFO - Shutting down
+2025-12-09 14:41:22,139 - app.main - INFO - Shutting down
+2025-12-09 20:11:25,802 - app - INFO - Logging configured. Writing to logs\app.log
+2025-12-09 20:11:25,816 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 20:11:25,861 - app.main - INFO - Database initialized
+2025-12-09 14:41:26,502 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 14:41:26,516 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 14:41:26,545 - app.main - INFO - Database initialized
+2025-12-09 21:40:46,961 - app.main - INFO - Shutting down
+2025-12-09 16:10:47,440 - app.main - INFO - Shutting down
+2025-12-09 21:40:52,217 - app - INFO - Logging configured. Writing to logs\app.log
+2025-12-09 21:40:52,232 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 21:40:52,302 - app.main - INFO - Database initialized
+2025-12-09 21:40:52,629 - app.main - INFO - Shutting down
+2025-12-09 16:10:52,632 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 16:10:52,652 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 16:10:52,693 - app.main - INFO - Database initialized
+2025-12-09 16:10:53,197 - app.main - INFO - Shutting down
+2025-12-09 21:40:55,537 - app - INFO - Logging configured. Writing to logs\app.log
+2025-12-09 21:40:55,554 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 21:40:55,639 - app.main - INFO - Database initialized
+2025-12-09 16:10:56,376 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 16:10:56,391 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 16:10:56,419 - app.main - INFO - Database initialized
+2025-12-09 21:40:58,324 - app - INFO - Logging configured. Writing to logs\app.log
+2025-12-09 21:40:58,334 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 21:40:58,401 - app.main - INFO - Database initialized
+2025-12-09 21:41:27,540 - app.main - INFO - Shutting down
+2025-12-09 16:11:28,068 - app.main - INFO - Shutting down
+2025-12-09 21:41:30,317 - app - INFO - Logging configured. Writing to logs\app.log
+2025-12-09 21:41:30,329 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 21:41:30,372 - app.main - INFO - Database initialized
+2025-12-09 16:11:31,164 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 16:11:31,178 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 16:11:31,202 - app.main - INFO - Database initialized
+2025-12-09 21:41:43,601 - app.main - INFO - Shutting down
+2025-12-09 16:11:44,029 - app.main - INFO - Shutting down
+2025-12-09 21:41:47,303 - app - INFO - Logging configured. Writing to logs\app.log
+2025-12-09 21:41:47,320 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 21:41:47,387 - app.main - INFO - Database initialized
+2025-12-09 16:11:49,409 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 16:11:49,423 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 16:11:49,454 - app.main - INFO - Database initialized
+2025-12-09 21:41:50,137 - app - INFO - Logging configured. Writing to logs\app.log
+2025-12-09 21:41:50,147 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 21:41:50,198 - app.main - INFO - Database initialized
+2025-12-09 21:41:52,517 - app - INFO - Logging configured. Writing to logs\app.log
+2025-12-09 21:41:52,528 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 21:41:52,566 - app.main - INFO - Database initialized
+2025-12-09 21:42:01,637 - app.main - INFO - Shutting down
+2025-12-09 16:12:01,907 - app.main - INFO - Shutting down
+2025-12-09 16:12:04,850 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 16:12:04,874 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 21:42:04,901 - app - INFO - Logging configured. Writing to logs\app.log
+2025-12-09 16:12:04,895 - app.main - INFO - Database initialized
+2025-12-09 21:42:04,912 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 21:42:04,969 - app.main - INFO - Database initialized
+2025-12-09 21:42:56,136 - app.main - INFO - Shutting down
+2025-12-09 16:12:56,821 - app.main - INFO - Shutting down
+2025-12-09 21:42:59,163 - app - INFO - Logging configured. Writing to logs\app.log
+2025-12-09 21:42:59,181 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 21:42:59,232 - app.main - INFO - Database initialized
+2025-12-09 16:13:00,150 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 16:13:00,167 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 16:13:00,191 - app.main - INFO - Database initialized
+2025-12-09 21:43:02,216 - app - INFO - Logging configured. Writing to logs\app.log
+2025-12-09 21:43:02,228 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 21:43:02,275 - app.main - INFO - Database initialized
+2025-12-09 21:43:53,116 - app.main - INFO - Shutting down
+2025-12-09 16:13:53,106 - app.main - INFO - Shutting down
+2025-12-09 21:43:56,260 - app - INFO - Logging configured. Writing to logs\app.log
+2025-12-09 21:43:56,274 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 21:43:56,336 - app.main - INFO - Database initialized
+2025-12-09 16:13:58,892 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 16:13:58,907 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 16:13:58,934 - app.main - INFO - Database initialized
+2025-12-09 21:43:59,515 - app - INFO - Logging configured. Writing to logs\app.log
+2025-12-09 21:43:59,530 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 21:43:59,592 - app.main - INFO - Database initialized
+2025-12-09 21:44:02,152 - app - INFO - Logging configured. Writing to logs\app.log
+2025-12-09 21:44:02,168 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 21:44:02,220 - app.main - INFO - Database initialized
+2025-12-09 21:45:41,627 - app.main - INFO - Shutting down
+2025-12-09 16:15:42,256 - app.main - INFO - Shutting down
+2025-12-09 21:45:44,334 - app - INFO - Logging configured. Writing to logs\app.log
+2025-12-09 21:45:44,346 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 21:45:44,396 - app.main - INFO - Database initialized
+2025-12-09 21:45:47,246 - app - INFO - Logging configured. Writing to logs\app.log
+2025-12-09 21:45:47,260 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 21:45:47,310 - app.main - INFO - Database initialized
+2025-12-09 16:15:48,444 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 16:15:48,460 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 16:15:48,493 - app.main - INFO - Database initialized
+2025-12-09 21:45:50,023 - app - INFO - Logging configured. Writing to logs\app.log
+2025-12-09 21:45:50,039 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 21:45:50,121 - app.main - INFO - Database initialized
+2025-12-09 21:47:46,711 - app.main - INFO - Shutting down
+2025-12-09 16:17:47,497 - app.main - INFO - Shutting down
+2025-12-09 21:47:49,829 - app - INFO - Logging configured. Writing to logs\app.log
+2025-12-09 21:47:49,848 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 21:47:49,914 - app.main - INFO - Database initialized
+2025-12-09 16:17:51,016 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 16:17:51,039 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 16:17:51,064 - app.main - INFO - Database initialized
+2025-12-09 16:27:25,867 - app.api.routes.discovery - INFO - 🚀 Starting discovery for Paracetamol (5000 units)
+2025-12-09 16:27:25,869 - app.services.supplier_discovery_service - INFO - 🔍 Discovering suppliers for Paracetamol...
+2025-12-09 16:27:25,870 - app.services.supplier_discovery_service - WARNING - Using simulated suppliers (SerpAPI not configured)
+2025-12-09 16:27:29,425 - app.services.email_service - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-29dae4cf996sm161094765ad.30 - gsmtp')
+2025-12-09 16:27:29,427 - app.api.routes.discovery - ERROR - Failed to send email to MedPharma Solutions: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-29dae4cf996sm161094765ad.30 - gsmtp')
+2025-12-09 16:27:32,566 - app.services.email_service - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7f157ae9e36sm1871770b3a.21 - gsmtp')
+2025-12-09 16:27:32,568 - app.api.routes.discovery - ERROR - Failed to send email to HealthCare Suppliers: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7f157ae9e36sm1871770b3a.21 - gsmtp')
+2025-12-09 16:27:36,128 - app.services.email_service - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7e2a062ac40sm16370188b3a.25 - gsmtp')
+2025-12-09 16:27:36,131 - app.api.routes.discovery - ERROR - Failed to send email to QuickMeds Distributors: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7e2a062ac40sm16370188b3a.25 - gsmtp')
+2025-12-09 16:27:40,313 - app.services.email_service - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-34a4a7f55dcsm1443196a91.4 - gsmtp')
+2025-12-09 16:27:40,316 - app.api.routes.discovery - ERROR - Failed to send email to ABC Pharmaceuticals: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-34a4a7f55dcsm1443196a91.4 - gsmtp')
+2025-12-09 16:27:44,142 - app.services.email_service - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-29dae49c8b6sm162155255ad.13 - gsmtp')
+2025-12-09 16:27:44,144 - app.api.routes.discovery - ERROR - Failed to send email to HealthFirst Supplies: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-29dae49c8b6sm162155255ad.13 - gsmtp')
+2025-12-09 16:28:28,654 - app.api.routes.discovery - INFO - 🚀 Starting discovery for Paracetamol (5000 units)
+2025-12-09 16:28:28,656 - app.services.supplier_discovery_service - INFO - 🔍 Discovering suppliers for Paracetamol...
+2025-12-09 16:28:28,657 - app.services.supplier_discovery_service - WARNING - Using simulated suppliers (SerpAPI not configured)
+2025-12-09 16:28:31,935 - app.services.email_service - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-29dae4cfaecsm157055935ad.27 - gsmtp')
+2025-12-09 16:28:31,936 - app.api.routes.discovery - ERROR - Failed to send email to MedPharma Solutions: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-29dae4cfaecsm157055935ad.27 - gsmtp')
+2025-12-09 16:28:35,086 - app.services.email_service - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7f0e45d5a21sm2493471b3a.53 - gsmtp')
+2025-12-09 16:28:35,088 - app.api.routes.discovery - ERROR - Failed to send email to HealthCare Suppliers: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7f0e45d5a21sm2493471b3a.53 - gsmtp')
+2025-12-09 16:28:39,057 - app.services.email_service - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-bf6817389fdsm16146916a12.1 - gsmtp')
+2025-12-09 16:28:39,058 - app.api.routes.discovery - ERROR - Failed to send email to QuickMeds Distributors: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-bf6817389fdsm16146916a12.1 - gsmtp')
+2025-12-09 16:28:42,113 - app.services.email_service - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7e2afa31e9fsm16600153b3a.68 - gsmtp')
+2025-12-09 16:28:42,114 - app.api.routes.discovery - ERROR - Failed to send email to ABC Pharmaceuticals: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7e2afa31e9fsm16600153b3a.68 - gsmtp')
+2025-12-09 16:28:45,735 - app.services.email_service - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7e4ec3c32cbsm15577183b3a.46 - gsmtp')
+2025-12-09 16:28:45,736 - app.api.routes.discovery - ERROR - Failed to send email to HealthFirst Supplies: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7e4ec3c32cbsm15577183b3a.46 - gsmtp')
+2025-12-09 22:00:40,370 - app.main - INFO - Shutting down
+2025-12-09 22:00:53,427 - app - INFO - Logging configured. Writing to logs\app.log
+2025-12-09 22:00:53,441 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 22:00:53,496 - app.main - INFO - Database initialized
+2025-12-09 16:31:01,728 - app.api.routes.discovery - INFO - 🚀 Starting discovery for Paracetamol (5000 units)
+2025-12-09 16:31:01,729 - app.services.supplier_discovery_service - INFO - 🔍 Discovering suppliers for Paracetamol...
+2025-12-09 16:31:01,730 - app.services.supplier_discovery_service - WARNING - Using simulated suppliers (SerpAPI not configured)
+2025-12-09 16:31:06,261 - app.services.email_service - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-bf681550446sm15770754a12.2 - gsmtp')
+2025-12-09 16:31:06,262 - app.api.routes.discovery - ERROR - Failed to send email to MedPharma Solutions: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-bf681550446sm15770754a12.2 - gsmtp')
+2025-12-09 16:31:09,480 - app.services.email_service - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7f19b88f8f3sm960942b3a.51 - gsmtp')
+2025-12-09 16:31:09,482 - app.api.routes.discovery - ERROR - Failed to send email to HealthCare Suppliers: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7f19b88f8f3sm960942b3a.51 - gsmtp')
+2025-12-09 16:31:12,928 - app.services.email_service - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7e2af93c770sm16644634b3a.65 - gsmtp')
+2025-12-09 16:31:12,929 - app.api.routes.discovery - ERROR - Failed to send email to QuickMeds Distributors: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7e2af93c770sm16644634b3a.65 - gsmtp')
+2025-12-09 16:31:16,418 - app.services.email_service - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7e29f2ed31bsm16908300b3a.3 - gsmtp')
+2025-12-09 16:31:16,419 - app.api.routes.discovery - ERROR - Failed to send email to ABC Pharmaceuticals: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7e29f2ed31bsm16908300b3a.3 - gsmtp')
+2025-12-09 16:31:19,886 - app.services.email_service - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-34a49553f8fsm2882467a91.2 - gsmtp')
+2025-12-09 16:31:19,888 - app.api.routes.discovery - ERROR - Failed to send email to HealthFirst Supplies: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-34a49553f8fsm2882467a91.2 - gsmtp')
+2025-12-09 22:07:50,338 - app.main - INFO - Shutting down
+2025-12-09 16:37:50,668 - app.main - INFO - Shutting down
+2025-12-09 22:07:53,309 - app - INFO - Logging configured. Writing to logs\app.log
+2025-12-09 22:07:53,323 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 22:07:53,375 - app.main - INFO - Database initialized
+2025-12-09 16:37:53,999 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 16:37:54,015 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 16:37:54,047 - app.main - INFO - Database initialized
+2025-12-09 16:43:45,629 - app.api.routes.discovery - INFO - 🚀 Starting discovery for Paracetamol (5000 units)
+2025-12-09 16:43:45,630 - app.services.supplier_discovery_service - INFO - 🔍 Discovering suppliers for Paracetamol...
+2025-12-09 16:43:45,632 - app.services.supplier_discovery_service - WARNING - Using simulated suppliers (SerpAPI not configured)
+2025-12-09 16:43:49,696 - app.services.email_service - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7e2af93c770sm16665548b3a.65 - gsmtp')
+2025-12-09 16:43:49,698 - app.api.routes.discovery - ERROR - Failed to send email to MedPharma Solutions: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7e2af93c770sm16665548b3a.65 - gsmtp')
+2025-12-09 16:43:53,900 - app.services.email_service - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-29e9822c308sm26134555ad.80 - gsmtp')
+2025-12-09 16:43:53,902 - app.api.routes.discovery - ERROR - Failed to send email to HealthCare Suppliers: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-29e9822c308sm26134555ad.80 - gsmtp')
+2025-12-09 16:43:57,065 - app.services.email_service - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7e2ae6fa409sm16473601b3a.45 - gsmtp')
+2025-12-09 16:43:57,068 - app.api.routes.discovery - ERROR - Failed to send email to QuickMeds Distributors: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7e2ae6fa409sm16473601b3a.45 - gsmtp')
+2025-12-09 16:44:01,050 - app.services.email_service - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-29daeaabbb1sm157814095ad.82 - gsmtp')
+2025-12-09 16:44:01,052 - app.api.routes.discovery - ERROR - Failed to send email to ABC Pharmaceuticals: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-29daeaabbb1sm157814095ad.82 - gsmtp')
+2025-12-09 16:44:04,618 - app.services.email_service - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-29daeaabfdcsm158307755ad.75 - gsmtp')
+2025-12-09 16:44:04,620 - app.api.routes.discovery - ERROR - Failed to send email to HealthFirst Supplies: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-29daeaabfdcsm158307755ad.75 - gsmtp')
+2025-12-09 22:23:02,470 - app.main - INFO - Shutting down
+2025-12-09 16:53:02,645 - app.main - INFO - Shutting down
+2025-12-09 16:53:06,152 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 16:53:06,173 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 16:53:06,207 - app.main - INFO - Database initialized
+2025-12-09 22:23:07,017 - app - INFO - Logging configured. Writing to logs\app.log
+2025-12-09 22:23:07,040 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 22:23:07,096 - app.main - INFO - Database initialized
+2025-12-09 16:55:41,326 - app.api.routes.discovery - INFO - 🚀 Starting discovery for Paracetamol (5000 units)
+2025-12-09 16:55:41,327 - app.services.supplier_discovery_service - INFO - 🔍 Discovering suppliers for Paracetamol...
+2025-12-09 16:55:41,328 - app.services.supplier_discovery_service - WARNING - Using simulated suppliers (SerpAPI not configured)
+2025-12-09 16:55:45,189 - app.services.email_service - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-bf6a274af53sm15426096a12.28 - gsmtp')
+2025-12-09 16:55:45,191 - app.api.routes.discovery - ERROR - Failed to send email to MedPharma Solutions: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-bf6a274af53sm15426096a12.28 - gsmtp')
+2025-12-09 16:55:48,365 - app.services.email_service - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-29dae99f006sm162285665ad.50 - gsmtp')
+2025-12-09 16:55:48,366 - app.api.routes.discovery - ERROR - Failed to send email to HealthCare Suppliers: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-29dae99f006sm162285665ad.50 - gsmtp')
+2025-12-09 16:55:51,936 - app.services.email_service - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-bf686951586sm15503157a12.12 - gsmtp')
+2025-12-09 16:55:51,937 - app.api.routes.discovery - ERROR - Failed to send email to QuickMeds Distributors: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-bf686951586sm15503157a12.12 - gsmtp')
+2025-12-09 16:55:56,067 - app.services.email_service - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-34a49af0395sm2885638a91.4 - gsmtp')
+2025-12-09 16:55:56,068 - app.api.routes.discovery - ERROR - Failed to send email to ABC Pharmaceuticals: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-34a49af0395sm2885638a91.4 - gsmtp')
+2025-12-09 16:55:59,902 - app.services.email_service - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7e2974d258esm16560040b3a.0 - gsmtp')
+2025-12-09 16:55:59,904 - app.api.routes.discovery - ERROR - Failed to send email to HealthFirst Supplies: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7e2974d258esm16560040b3a.0 - gsmtp')
+2025-12-09 22:42:59,052 - app.main - INFO - Shutting down
+2025-12-09 17:12:59,270 - app.main - INFO - Shutting down
+2025-12-09 17:13:02,438 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 17:13:02,455 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 17:13:02,479 - app.main - INFO - Database initialized
+2025-12-09 22:43:02,788 - app - INFO - Logging configured. Writing to logs\app.log
+2025-12-09 22:43:02,809 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 22:43:02,862 - app.main - INFO - Database initialized
+2025-12-09 22:43:05,368 - app.main - INFO - Shutting down
+2025-12-09 17:13:05,645 - app.main - INFO - Shutting down
+2025-12-09 17:13:08,780 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 17:13:08,804 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 17:13:08,831 - app.main - INFO - Database initialized
+2025-12-09 17:13:09,049 - app.main - INFO - Shutting down
+2025-12-09 22:43:09,275 - app - INFO - Logging configured. Writing to logs\app.log
+2025-12-09 22:43:09,295 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 22:43:09,367 - app.main - INFO - Database initialized
+2025-12-09 17:13:12,732 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 17:13:12,752 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 17:13:12,775 - app.main - INFO - Database initialized
+2025-12-09 22:43:13,600 - app - INFO - Logging configured. Writing to logs\app.log
+2025-12-09 22:43:13,613 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 22:43:13,660 - app.main - INFO - Database initialized
+2025-12-09 22:44:17,638 - app.main - INFO - Shutting down
+2025-12-09 17:14:18,145 - app.main - INFO - Shutting down
+2025-12-09 22:44:20,801 - app - INFO - Logging configured. Writing to logs\app.log
+2025-12-09 22:44:20,813 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 22:44:20,880 - app.main - INFO - Database initialized
+2025-12-09 17:14:21,386 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 17:14:21,407 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 17:14:21,427 - app.main - INFO - Database initialized
+2025-12-09 22:45:52,691 - app.main - INFO - Shutting down
+2025-12-09 17:15:52,860 - app.main - INFO - Shutting down
+2025-12-09 22:45:56,454 - app - INFO - Logging configured. Writing to logs\app.log
+2025-12-09 22:45:56,481 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 17:15:56,535 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 17:15:56,562 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 22:45:56,609 - app.main - INFO - Database initialized
+2025-12-09 22:46:34,852 - app.main - INFO - Shutting down
+2025-12-09 22:46:38,001 - app - INFO - Logging configured. Writing to logs\app.log
+2025-12-09 22:46:38,017 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 22:46:38,115 - app.main - INFO - Database initialized
+2025-12-09 17:16:38,575 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 17:16:38,591 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 17:16:38,620 - app.main - INFO - Database initialized
+2025-12-09 22:46:41,445 - app - INFO - Logging configured. Writing to logs\app.log
+2025-12-09 22:46:41,459 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 22:46:41,515 - app.main - INFO - Database initialized
+2025-12-09 22:46:51,330 - app.main - INFO - Shutting down
+2025-12-09 17:16:51,690 - app.main - INFO - Shutting down
+2025-12-09 22:46:54,282 - app - INFO - Logging configured. Writing to logs\app.log
+2025-12-09 22:46:54,299 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 22:46:54,372 - app.main - INFO - Database initialized
+2025-12-09 17:16:57,023 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 17:16:57,062 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 17:16:57,095 - app.main - INFO - Database initialized
+2025-12-09 22:46:57,658 - app - INFO - Logging configured. Writing to logs\app.log
+2025-12-09 22:46:57,694 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 22:46:57,768 - app.main - INFO - Database initialized
+2025-12-09 22:56:36,001 - app.main - INFO - Shutting down
+2025-12-09 17:26:36,498 - app.main - INFO - Shutting down
+2025-12-09 22:56:38,679 - app - INFO - Logging configured. Writing to logs\app.log
+2025-12-09 22:56:38,696 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 22:56:38,753 - app.main - INFO - Database initialized
+2025-12-09 17:26:39,432 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 17:26:39,449 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 17:26:39,479 - app.main - INFO - Database initialized
+2025-12-09 22:56:57,838 - app.main - INFO - Shutting down
+2025-12-09 17:26:58,277 - app.main - INFO - Shutting down
+2025-12-09 22:57:01,208 - app - INFO - Logging configured. Writing to logs\app.log
+2025-12-09 22:57:01,229 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 22:57:01,292 - app.main - INFO - Database initialized
+2025-12-09 17:27:01,920 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 17:27:01,950 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 17:27:01,982 - app.main - INFO - Database initialized
+2025-12-09 23:01:15,137 - app.main - INFO - Shutting down
+2025-12-09 23:01:20,329 - app - INFO - Logging configured. Writing to logs\app.log
+2025-12-09 23:01:20,348 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 23:01:20,402 - app.main - INFO - Database initialized
+2025-12-09 23:02:32,016 - app.main - INFO - Shutting down
+2025-12-09 17:32:32,144 - app.main - INFO - Shutting down
+2025-12-09 23:02:35,235 - app - INFO - Logging configured. Writing to logs\app.log
+2025-12-09 23:02:35,255 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 23:02:35,321 - app.main - INFO - Database initialized
+2025-12-09 17:32:35,657 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 17:32:35,692 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 17:32:35,725 - app.main - INFO - Database initialized
+2025-12-09 23:02:51,981 - app - INFO - Logging configured. Writing to logs\app.log
+2025-12-09 23:02:52,000 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 23:02:52,048 - app.main - INFO - Database initialized
+2025-12-09 17:36:23,035 - app.api.routes.discovery - INFO - 🚀 Starting discovery for Paracetamol (5000 units)
+2025-12-09 17:36:23,036 - app.services.supplier_discovery_service - INFO - 🔍 Discovering suppliers for Paracetamol...
+2025-12-09 17:36:23,037 - app.services.supplier_discovery_service - WARNING - Using simulated suppliers (SerpAPI not configured)
+2025-12-09 17:36:26,931 - app.services.email_service - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7e2af0943d3sm16741310b3a.57 - gsmtp')
+2025-12-09 17:36:26,932 - app.api.routes.discovery - ERROR - Failed to send email to MedPharma Solutions: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7e2af0943d3sm16741310b3a.57 - gsmtp')
+2025-12-09 17:36:32,120 - app.services.email_service - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-34a70c4ea44sm41081a91.13 - gsmtp')
+2025-12-09 17:36:32,122 - app.api.routes.discovery - ERROR - Failed to send email to HealthCare Suppliers: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-34a70c4ea44sm41081a91.13 - gsmtp')
+2025-12-09 17:36:36,843 - app.services.email_service - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-34a70b4567fsm44815a91.9 - gsmtp')
+2025-12-09 17:36:36,845 - app.api.routes.discovery - ERROR - Failed to send email to QuickMeds Distributors: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-34a70b4567fsm44815a91.9 - gsmtp')
+2025-12-09 17:36:41,839 - app.services.email_service - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7e2af93d910sm16583995b3a.67 - gsmtp')
+2025-12-09 17:36:41,840 - app.api.routes.discovery - ERROR - Failed to send email to ABC Pharmaceuticals: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7e2af93d910sm16583995b3a.67 - gsmtp')
+2025-12-09 17:36:46,208 - app.services.email_service - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-29daeaaba21sm160946355ad.70 - gsmtp')
+2025-12-09 17:36:46,210 - app.api.routes.discovery - ERROR - Failed to send email to HealthFirst Supplies: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-29daeaaba21sm160946355ad.70 - gsmtp')
+2025-12-09 17:55:47,398 - app.api.routes.discovery - INFO - 🚀 Starting discovery for Paracetamol (5000 units)
+2025-12-09 17:55:47,402 - app.services.supplier_discovery_service - INFO - 🔍 Discovering suppliers for Paracetamol...
+2025-12-09 17:55:47,404 - app.services.supplier_discovery_service - WARNING - Using simulated suppliers (SerpAPI not configured)
+2025-12-09 17:55:50,821 - app.services.email_service - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-29daeaab9c0sm162077915ad.68 - gsmtp')
+2025-12-09 17:55:50,824 - app.api.routes.discovery - ERROR - Failed to send email to MedPharma Solutions: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-29daeaab9c0sm162077915ad.68 - gsmtp')
+2025-12-09 17:55:54,382 - app.services.email_service - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-29dae99f6a9sm162969065ad.65 - gsmtp')
+2025-12-09 17:55:54,385 - app.api.routes.discovery - ERROR - Failed to send email to HealthCare Suppliers: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-29dae99f6a9sm162969065ad.65 - gsmtp')
+2025-12-09 17:55:58,335 - app.services.email_service - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-29dae4cf863sm163139945ad.38 - gsmtp')
+2025-12-09 17:55:58,337 - app.api.routes.discovery - ERROR - Failed to send email to QuickMeds Distributors: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-29dae4cf863sm163139945ad.38 - gsmtp')
+2025-12-09 17:56:02,111 - app.services.email_service - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-29daeaabf5fsm160879715ad.78 - gsmtp')
+2025-12-09 17:56:02,112 - app.api.routes.discovery - ERROR - Failed to send email to ABC Pharmaceuticals: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-29daeaabf5fsm160879715ad.78 - gsmtp')
+2025-12-09 17:56:06,011 - app.services.email_service - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-29daeaac07csm159039245ad.86 - gsmtp')
+2025-12-09 17:56:06,013 - app.api.routes.discovery - ERROR - Failed to send email to HealthFirst Supplies: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-29daeaac07csm159039245ad.86 - gsmtp')
+2025-12-09 23:29:14,613 - app.main - INFO - Shutting down
+2025-12-09 17:59:14,770 - app.main - INFO - Shutting down
+2025-12-09 23:29:17,832 - app - INFO - Logging configured. Writing to logs\app.log
+2025-12-09 23:29:17,851 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 23:29:17,931 - app.main - INFO - Database initialized
+2025-12-09 17:59:19,225 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 17:59:19,244 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 17:59:19,271 - app.main - INFO - Database initialized
+2025-12-09 23:33:26,668 - app.main - INFO - Shutting down
+2025-12-09 18:03:30,735 - app.main - INFO - Shutting down
+2025-12-09 23:33:30,815 - app - INFO - Logging configured. Writing to logs\app.log
+2025-12-09 23:33:30,853 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 23:33:30,927 - app.main - INFO - Database initialized
+2025-12-09 18:03:35,588 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 18:03:35,608 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 18:03:35,636 - app.main - INFO - Database initialized
+2025-12-09 23:34:46,301 - app - INFO - Logging configured. Writing to logs\app.log
+2025-12-09 23:34:46,320 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 23:34:46,380 - app.main - INFO - Database initialized
+2025-12-09 18:05:43,297 - app.api.routes.discovery - INFO - 🚀 Starting discovery for Paracetamol (5000 units)
+2025-12-09 18:05:43,298 - app.services.supplier_discovery_service - INFO - 🔍 Discovering suppliers for Paracetamol...
+2025-12-09 18:05:43,299 - app.services.supplier_discovery_service - WARNING - Using simulated suppliers (SerpAPI not configured)
+2025-12-09 18:05:51,177 - app.api.routes.discovery - INFO - 🚀 Starting discovery for Paracetamol (5000 units)
+2025-12-09 18:05:51,179 - app.services.supplier_discovery_service - INFO - 🔍 Discovering suppliers for Paracetamol...
+2025-12-09 18:05:51,180 - app.services.supplier_discovery_service - WARNING - Using simulated suppliers (SerpAPI not configured)
+2025-12-09 18:05:56,364 - app.api.routes.discovery - INFO - 🚀 Starting discovery for Paracetamol (5000 units)
+2025-12-09 18:05:56,366 - app.services.supplier_discovery_service - INFO - 🔍 Discovering suppliers for Paracetamol...
+2025-12-09 18:05:56,367 - app.services.supplier_discovery_service - WARNING - Using simulated suppliers (SerpAPI not configured)
+2025-12-09 23:40:03,071 - app - INFO - Logging configured. Writing to logs\app.log
+2025-12-09 23:40:03,115 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 23:40:03,195 - app.main - INFO - Database initialized
+2025-12-09 18:10:46,027 - app.api.routes.discovery - INFO - 🚀 Starting discovery for Paracetamol (5000 units)
+2025-12-09 18:10:46,028 - app.services.supplier_discovery_service - INFO - 🔍 Discovering suppliers for Paracetamol...
+2025-12-09 18:10:46,029 - app.services.supplier_discovery_service - WARNING - Using simulated suppliers (SerpAPI not configured)
+2025-12-09 18:10:53,932 - app.services.email_service - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-34a4a8df4a4sm1310907a91.12 - gsmtp')
+2025-12-09 18:10:53,933 - app.api.routes.discovery - ERROR - Failed to send email to QuickMeds Distributors: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-34a4a8df4a4sm1310907a91.12 - gsmtp')
+2025-12-09 18:12:01,494 - app.services.email_service - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-bf6a274af53sm15534509a12.28 - gsmtp')
+2025-12-09 18:12:01,495 - app.api.routes.discovery - ERROR - Failed to send email to MedPharma Solutions: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-bf6a274af53sm15534509a12.28 - gsmtp')
+2025-12-09 18:14:24,256 - app.services.email_service - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-bf686c32deesm15441048a12.13 - gsmtp')
+2025-12-09 18:14:24,258 - app.api.routes.discovery - ERROR - Failed to send email to MedPharma Solutions: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-bf686c32deesm15441048a12.13 - gsmtp')
+2025-12-09 23:44:54,310 - app - INFO - Logging configured. Writing to logs\app.log
+2025-12-09 23:44:54,344 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 23:44:54,406 - app.main - INFO - Database initialized
+2025-12-09 18:15:46,957 - app.services.email_service - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-29dae99effasm163127165ad.57 - gsmtp')
+2025-12-09 18:15:46,959 - app.api.routes.discovery - ERROR - Failed to send email to MedPharma Solutions: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-29dae99effasm163127165ad.57 - gsmtp')
+2025-12-09 23:49:31,783 - app - INFO - Logging configured. Writing to logs\app.log
+2025-12-09 23:49:31,802 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 23:49:31,861 - app.main - INFO - Database initialized
+2025-12-09 18:19:47,336 - app.services.email_service - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7e2ae032e57sm16774724b3a.41 - gsmtp')
+2025-12-09 18:19:47,337 - app.api.routes.discovery - ERROR - Failed to send email to MedPharma Solutions: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7e2ae032e57sm16774724b3a.41 - gsmtp')
+2025-12-10 00:12:54,416 - app - INFO - Logging configured. Writing to logs\app.log
+2025-12-10 00:12:54,450 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-10 00:12:54,520 - app.main - INFO - Database initialized
+2025-12-09 18:43:10,574 - app.services.email_service - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-34a70823090sm148761a91.11 - gsmtp')
+2025-12-09 18:43:10,577 - app.api.routes.discovery - ERROR - Failed to send email to MedPharma Solutions: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-34a70823090sm148761a91.11 - gsmtp')
+2025-12-10 00:16:49,501 - app - INFO - Logging configured. Writing to logs\app.log
+2025-12-10 00:16:49,538 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-10 00:16:49,602 - app.main - INFO - Database initialized
+2025-12-09 18:46:59,146 - app.services.email_service - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-34a70b446desm148516a91.10 - gsmtp')
+2025-12-09 18:46:59,149 - app.api.routes.discovery - ERROR - Failed to send email to MedPharma Solutions: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-34a70b446desm148516a91.10 - gsmtp')
+2025-12-09 18:51:39,087 - app.main - INFO - Shutting down
+2025-12-09 18:51:48,627 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 18:51:48,652 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 18:51:48,689 - app.main - INFO - Database initialized
+2025-12-09 18:54:05,458 - app.api.routes.discovery - INFO - 🚀 Starting discovery for Paracetamol (5000 units)
+2025-12-09 18:54:05,459 - app.services.supplier_discovery_service - INFO - 🔍 Discovering suppliers for Paracetamol...
+2025-12-09 18:54:05,461 - app.services.supplier_discovery_service - WARNING - Using simulated suppliers (SerpAPI not configured)
+2025-12-09 18:54:12,800 - app.services.email_service - INFO - ✉️ Email sent to sales@quickmeds.in (actually: kanhacet@gmail.com)
+2025-12-09 18:54:12,830 - app.api.routes.discovery - INFO - 📧 Email sent to sales@quickmeds.in (supplier_id: 3)
+2025-12-09 19:52:12,102 - app.main - INFO - Shutting down
+2025-12-09 19:52:16,042 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 19:52:16,061 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 19:52:16,098 - app.main - INFO - Database initialized
+2025-12-09 19:52:27,878 - app.main - INFO - Shutting down
+2025-12-09 19:52:30,760 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 19:52:30,778 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 19:52:30,801 - app.main - INFO - Database initialized
+2025-12-09 19:52:50,062 - app.main - INFO - Shutting down
+2025-12-09 19:52:53,269 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 19:52:53,293 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 19:52:53,327 - app.main - INFO - Database initialized
+2025-12-09 19:53:23,100 - app.main - INFO - Shutting down
+2025-12-09 19:53:26,149 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 19:53:26,168 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 19:53:26,193 - app.main - INFO - Database initialized
+2025-12-09 19:53:42,278 - app.main - INFO - Shutting down
+2025-12-09 19:53:45,349 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 19:53:45,377 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 19:53:45,410 - app.main - INFO - Database initialized
+2025-12-09 19:54:08,947 - app.main - INFO - Shutting down
+2025-12-09 19:54:11,845 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 19:54:11,862 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 19:54:11,892 - app.main - INFO - Database initialized
+2025-12-09 19:54:25,348 - app.main - INFO - Shutting down
+2025-12-09 19:54:28,266 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 19:54:28,289 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 19:54:28,323 - app.main - INFO - Database initialized
+2025-12-09 19:54:38,158 - app.main - INFO - Shutting down
+2025-12-09 19:54:41,212 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 19:54:41,230 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 19:54:41,254 - app.main - INFO - Database initialized
+2025-12-09 19:55:31,038 - app.main - INFO - Shutting down
+2025-12-09 19:55:33,821 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 19:55:33,838 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 19:55:33,866 - app.main - INFO - Database initialized
+2025-12-09 19:56:02,123 - app.main - INFO - Shutting down
+2025-12-09 19:56:05,075 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 19:56:05,099 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 19:56:05,126 - app.main - INFO - Database initialized
+2025-12-09 19:56:34,350 - app.main - INFO - Shutting down
+2025-12-09 19:56:37,371 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 19:56:37,397 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 19:56:37,423 - app.main - INFO - Database initialized
+2025-12-09 19:56:56,383 - app.main - INFO - Shutting down
+2025-12-09 19:56:59,470 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 19:56:59,488 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 19:56:59,512 - app.main - INFO - Database initialized
+2025-12-09 19:57:15,581 - app.main - INFO - Shutting down
+2025-12-09 19:57:18,247 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 19:57:18,265 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 19:57:18,287 - app.main - INFO - Database initialized
+2025-12-09 19:57:40,725 - app.main - INFO - Shutting down
+2025-12-09 19:57:43,462 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 19:57:43,479 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 19:57:43,506 - app.main - INFO - Database initialized
+2025-12-09 19:57:56,639 - app.main - INFO - Shutting down
+2025-12-09 20:06:56,863 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 20:06:56,895 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 20:06:56,924 - app.main - INFO - Database initialized
+2025-12-09 20:07:04,777 - app.main - INFO - Shutting down
+2025-12-09 20:07:08,675 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 20:07:08,753 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 20:07:08,795 - app.main - INFO - Database initialized
+2025-12-09 20:15:45,697 - app.api.routes.discovery - INFO - 🚀 Starting discovery for Paracetamol (5000 units)
+2025-12-09 20:15:45,699 - app.services.supplier_discovery_service - INFO - 🔍 Discovering suppliers for Paracetamol...
+2025-12-09 20:15:45,701 - app.services.supplier_discovery_service - WARNING - Using simulated suppliers (SerpAPI not configured)
+2025-12-09 20:18:11,941 - app.main - INFO - Shutting down
+2025-12-09 20:18:16,562 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 20:18:16,600 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 20:18:16,629 - app.main - INFO - Database initialized
+2025-12-09 20:22:05,984 - app.main - INFO - Shutting down
+2025-12-09 20:24:55,699 - app - INFO - Logging configured. Writing to logs/app.log
+2025-12-09 20:24:55,729 - app.main - INFO - Starting Pharmacy Supply Chain AI System
+2025-12-09 20:24:55,763 - app.main - INFO - Database initialized
